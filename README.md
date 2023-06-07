@@ -65,4 +65,3 @@ Data Fields	Definition
 user_id	A unique id for the shopper.
 merchant_id	A unique id for the merchant.
 label	It is an enumerated type {0, 1}, where 1 means repeat buyer, 0 is for non-repeat buyer. This field is empty for test data.
-
